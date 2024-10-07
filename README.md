@@ -8,17 +8,16 @@ beharrymebin@gmail.com
 - Javascript
 - HTML
   
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
+# Social Media 
+* instagram: ogshestherealestt
+* [facebook](https://www.facebook.com/people/Mebin-Beharry/pfbid02jLUsPkveNE5phrqA22txaWQk93Z3NnktYnWepy2K9rr9sW3tFXTYSVBuHufjZ1E5l/)
+  
+
+# hobbies ⚡
+1. cooking
+1. reading
+1. driving
+
 
 <!--
 **mebinbeharry/mebinbeharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
