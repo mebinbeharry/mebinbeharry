@@ -9,7 +9,7 @@ beharrymebin@gmail.com
 - HTML
   
 # Social Media 
-* instagram: ogshestherealestt
+* instagram: 
 * [facebook](https://www.facebook.com/people/Mebin-Beharry/pfbid02jLUsPkveNE5phrqA22txaWQk93Z3NnktYnWepy2K9rr9sW3tFXTYSVBuHufjZ1E5l/)
   
 
